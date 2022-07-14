@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+.btnType{
+	float:right;
+}
+
+.app_date_apply{
+	 height:25px;
+	 margin-bottom:5px;
+}
+
+.selectEmpDv{
+	margin-bottom:10px;
+	overflow:hidden;
+}
+
+.selectEmpDv li{
+	float:left;
+	margin-right:30px;	
+}
+
+#empDvReg{
+	border:1px solid #000;
+}
+
+#dv_form{
+	display:none;
+}
+
+#searchEnter{
+	margin-right:25px;
+}
+
+#tableTextD .tdtext1{
+	text-align:center;
+}
+
+#container ul 
+.contents 
+.content 
+.app_date_apply 
+.datepicker {
+	text-align:center;
+	padding:5px;
+	border-radius:0px !important;
+}
+
+.ui-widget-header 
+.ui-widget-header 
+.ui-helper-clearfix 
+.ui-corner-all {
+	background: #d3d3d3 !important;
+	border:1px solid #d3d3d3 !important;
+}
+
+.ui-widget-header{
+	background: #d3d3d3 !important;
+	border:1px solid #d3d3d3 !important;
+}
+
+
